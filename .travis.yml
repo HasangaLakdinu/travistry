@@ -7,6 +7,6 @@ cache:
     - "node_modules"
 
 before_install:
-  - cd ./subfolder1
+  - cd ./backend
   - npm install 
 
